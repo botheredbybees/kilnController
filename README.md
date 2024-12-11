@@ -8,6 +8,8 @@ NOTE: This code is outdated, use the regularly maintained fork at https://github
 
 ​I used kilnController to add a firing schedule control to a little pottery kiln I picked up second hand. The kiln is 10A/240V rated to 1000 degrees C. It has a door switch and a basic thermostat which allows for 25%, 50%, 75% or 100% power but no timer, which means constant monitoring if you want to ramp the temperature up slowly or soak the wares at any point. With the kilnController I can now set it up for a bisque or low temperature glaze firing and leave it to its own devices, checking progress every now and then on my mobile phone or PC. 
 
+You can read installation instructions on this instructable page: https://www.instructables.com/Build-a-Web-Enabled-High-Temperature-Kiln-Controll/
+
 **Standard Interface**
 
 ![Image](https://cdn.instructables.com/F2S/VANL/JQQYIDCZ/F2SVANLJQQYIDCZ.LARGE.jpg)
