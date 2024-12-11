@@ -4,6 +4,8 @@ kilnController
 Turns a Raspberry Pi into a cheap, universal & web-enabled kiln Controller.
 Forked from the reflow oven project: [picoReflow](https://apollo.open-resource.org/mission:resources:picoreflow) which I found through a blog post on [succulent ceramics](http://succulentceramics.com/2016/10/07/wifiraspberry-kiln-controller/)
 
+NOTE: This code is outdated, use the regularly maintained fork at https://github.com/jbruce12000/kiln-controller/tree/main
+
 ​I used kilnController to add a firing schedule control to a little pottery kiln I picked up second hand. The kiln is 10A/240V rated to 1000 degrees C. It has a door switch and a basic thermostat which allows for 25%, 50%, 75% or 100% power but no timer, which means constant monitoring if you want to ramp the temperature up slowly or soak the wares at any point. With the kilnController I can now set it up for a bisque or low temperature glaze firing and leave it to its own devices, checking progress every now and then on my mobile phone or PC. 
 
 **Standard Interface**
